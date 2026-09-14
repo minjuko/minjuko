@@ -17,7 +17,7 @@ React를 중심으로 사용자 흐름과 상태를 설계하고, API·데이터
 
 | 프로젝트 | 기간 | 역할·핵심 경험 |
 |---|---|---|
-| [**꾼꾼농사꾼**](https://github.com/minjuko/farm-copilot) | 2024.06–2024.07 | React 기반 화면·사용자 흐름, 인증·커뮤니티 Frontend 구현 |
+| [**농업코파일럿**](https://github.com/minjuko/kunkunnongsakun) | 2024.06–2024.07 | React 기반 화면·사용자 흐름, 인증·커뮤니티 Frontend 구현 |
 | [**뽀득뽀득**](https://github.com/minjuko/Team10_FE_USER) | 2023.09–2023.12 | USER Frontend의 Bay·예약 시간 선택을 중심으로 예약 Flow 구현 |
 | [**TransMate**](https://github.com/minjuko/transmate) | 2023.03–2023.06 | 전문용어 데이터셋 구축, Backend·AWS EC2 환경과 번역 기능 구현 참여 |
 
