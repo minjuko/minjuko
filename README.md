@@ -4,6 +4,8 @@
 
 React를 중심으로 사용자 흐름과 상태를 설계하고, API·데이터·외부 서비스를 연결해 실제 동작하는 웹 서비스를 구현합니다.
 
+[**Portfolio**](https://app.notion.com/p/3d1622cea8638039bc0be9dcd7832e44)
+
 - **Frontend**: React, JavaScript
 - **관심 분야**: Frontend Architecture, UX, Web
 - **함께 다루는 영역**: Django, Spring Boot, AWS
