@@ -1,60 +1,30 @@
-# 👋 고민주
+# 고민주
 
 ### Frontend Developer
 
-React를 중심으로 사용자 흐름과 상태를 설계하고, API·데이터·외부 서비스를 연결해 실제 동작하는 웹 서비스를 구현합니다.
+React로 사용자 Flow와 상태를 설계하고, API 데이터를 안정적인 화면 경험으로 연결합니다.  
+팀 프로젝트에서는 Frontend·Backend API Contract를 조율했고, 이후 테스트와 성능 개선으로 실행 품질을 검증했습니다.
 
-[**Portfolio**](https://app.notion.com/p/3d1622cea8638039bc0be9dcd7832e44)
+[**Portfolio**](https://app.notion.com/p/3d1622cea8638039bc0be9dcd7832e44) · [**Email**](mailto:minjuko.id@gmail.com)
 
-- **Frontend**: React, JavaScript
-- **관심 분야**: Frontend Architecture, UX, Web
-- **함께 다루는 영역**: Django, Spring Boot, AWS
-- 개발 과정과 문제 해결 내용을 꾸준히 기록합니다.
+## Featured Projects
 
----
-
-## 🚀 Featured Projects
-
-### Main Projects
-
-| 프로젝트 | 기간 | 역할·핵심 경험 |
+| 프로젝트 | 기간 | 개인 역할·검증 근거 |
 |---|---|---|
-| [**뽀득뽀득**](https://github.com/minjuko/ppodeuk-user-frontend) | 2023.09–2023.12 | USER Frontend의 Bay·예약 시간 선택 중심 구현 · [Live](https://ppodeuk-user.vercel.app/) |
-| [**농업코파일럿**](https://github.com/minjuko/farm-copilot) | 2024.06–2024.07 | React 기반 화면·사용자 흐름, 인증·커뮤니티 Frontend 구현 |
-| [**TransMate**](https://github.com/minjuko/transmate) | 2023.03–2023.06 | 전문용어 데이터셋 구축, Backend·AWS EC2 환경과 번역 기능 구현 참여 |
+| [**뽀득뽀득**](https://github.com/minjuko/ppodeuk-user-frontend) | 2023.09–2023.12 | USER Frontend 예약 Flow · 74 tests · [Live](https://ppodeuk-user.vercel.app/) |
+| [**농업코파일럿**](https://github.com/minjuko/farm-copilot) | 2024.06–2024.07 | 공통 UI·인증·커뮤니티와 AI·공공데이터 Frontend Flow · 151 FE tests |
+| [**TransMate**](https://github.com/minjuko/transmate) | 2023.03–2023.06 | 전문용어 데이터셋 · AWS EC2 환경 구축 · AWS Translate 공동 연동 |
+| [카카오 쇼핑하기](https://github.com/minjuko/kakao-shopping-frontend) | 2023.07–2023.08 | React 쇼핑 Flow · REST API · 상태·Query Cache 관리 |
+| [CAMPSTER](https://github.com/minjuko/campster) | 2022.09–2022.12 | 모바일 챗봇 UI 공동 구현 · KoChat 상태 기반 화면 Flow |
+| [타부러](https://github.com/minjuko/tabureo-carpool) | 2021.08 | 모바일 카풀 UI · TMAP 경로 시각화 공동 구현 |
 
-### Additional Projects
+## Tech
 
-| 프로젝트 | 기간 | 역할·핵심 경험 |
-|---|---|---|
-| [**카카오 쇼핑하기**](https://github.com/minjuko/kakao-shopping-frontend) | 2023.07–2023.08 | React 쇼핑 Flow, REST API 연동, 상태·Query Cache 관리 |
-| [**CAMPSTER**](https://github.com/minjuko/campster) | 2022.09–2022.12 | 모바일 챗봇 UI 공동 구현, KoChat 대화 상태와 화면 Flow 연결 |
-| [**타부러**](https://github.com/minjuko/tabureo-carpool) | 2021.08 | 모바일 카풀 UI, TMAP 경로 시각화 공동 구현 |
-
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-
+**Frontend**  
 `React` `JavaScript` `HTML5` `CSS3` `Redux Toolkit` `TanStack Query`
 
-**Backend & Infrastructure**
+**API Integration · Collaboration**  
+`Django` `Spring Boot` `REST API` `Git` `GitHub` `Notion`
 
-`Django` `Spring Boot` `Python` `AWS`
-
-**Tools**
-
-`Git` `GitHub` `Notion`
-
----
-
-## 📚 Learning & Records
-
-| Area | Learning |
-|---|---|
-| CS / Web | Web Architecture, HTTP, Browser |
-| Algorithm | Programmers, Problem Solving |
-| SQL | SQL Practice |
-| Frontend | React, JavaScript |
-| Blog | Development & Troubleshooting Records |
+**Deployment Experience**  
+`Vercel` `Railway` `AWS` `Docker`
