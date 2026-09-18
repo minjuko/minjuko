@@ -17,9 +17,9 @@
 
 | 프로젝트 | 개인 기여·문제 해결 | 검증 근거 |
 |---|---|---|
-| [**뽀득뽀득**](https://github.com/minjuko/ppodeuk-user-frontend) | 사용자 예약 흐름 구현 · 종속 상태 초기화 · 시간 규칙 순수 함수 분리 | [예약 규칙 24개](https://github.com/minjuko/ppodeuk-user-frontend/blob/main/docs/refactoring.md) · 74 tests · [CI](https://github.com/minjuko/ppodeuk-user-frontend/actions/workflows/ci.yml) |
-| [**농업코파일럿**](https://github.com/minjuko/farm-copilot) | 공통 UI·인증·커뮤니티와 AI·공공데이터 기능을 화면 흐름으로 연결 | 개인 Fork 기준 FE 151 tests · [CI](https://github.com/minjuko/farm-copilot/actions/workflows/ci.yml) |
-| [**카카오 쇼핑하기**](https://github.com/minjuko/kakao-shopping-frontend) | Client/Server State 분리 · Query Key에 ID를 포함해 캐시 식별 | 80 tests · [Query Key 코드 리뷰](https://github.com/Kakao-tech-campus-FE/step2-FE-kakao-shop/pull/197) · [CI](https://github.com/minjuko/kakao-shopping-frontend/actions/workflows/ci.yml) |
+| [**뽀득뽀득**](https://github.com/minjuko/ppodeuk-user-frontend) | 사용자 예약 흐름 구현 · 종속 상태 초기화 · 시간 규칙 순수 함수 분리 | [예약 규칙 24개](https://github.com/minjuko/ppodeuk-user-frontend/blob/main/docs/refactoring.md) · 83 tests · [CI](https://github.com/minjuko/ppodeuk-user-frontend/actions/workflows/ci.yml) |
+| [**농업코파일럿**](https://github.com/minjuko/farm-copilot) | 공통 UI·인증·커뮤니티와 AI·공공데이터 기능을 화면 흐름으로 연결 | 개인 Fork 기준 프론트엔드 159 tests · 백엔드 130 tests · [CI](https://github.com/minjuko/farm-copilot/actions/workflows/ci.yml) |
+| [**카카오 쇼핑하기**](https://github.com/minjuko/kakao-shopping-frontend) | Client/Server State 분리 · Query Key에 ID를 포함해 캐시 식별 | 81 tests · [Query Key 코드 리뷰](https://github.com/Kakao-tech-campus-FE/step2-FE-kakao-shop/pull/197) · [CI](https://github.com/minjuko/kakao-shopping-frontend/actions/workflows/ci.yml) |
 
 ## Engineering Notes
 
