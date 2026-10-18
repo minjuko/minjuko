@@ -19,10 +19,12 @@
 
 | 프로젝트 | 개인 기여·문제 해결 | 검증 근거 |
 |---|---|---|
-| [**TripFinder**](https://github.com/minjuko/trip-finder) | Next.js Server/Client 경계 설계 · TourAPI runtime validation/정규화 · URL 기반 탐색 상태 | [Production](https://trip-finder-mauve.vercel.app/) · Playwright+axe E2E 8개 시나리오 · [CI](https://github.com/minjuko/trip-finder/actions/workflows/ci.yml) |
-| [**뽀득뽀득**](https://github.com/minjuko/ppodeuk-user-frontend) | 사용자 예약 흐름 구현 · 종속 상태 초기화 · 시간 규칙 순수 함수 분리 | [예약 규칙 24개](https://github.com/minjuko/ppodeuk-user-frontend/blob/main/docs/refactoring.md) · 83 tests · [CI](https://github.com/minjuko/ppodeuk-user-frontend/actions/workflows/ci.yml) |
-| [**농업코파일럿**](https://github.com/minjuko/farm-copilot) | 공통 UI·인증·커뮤니티와 AI·공공데이터 기능을 화면 흐름으로 연결 | 개인 Fork 기준 프론트엔드 159 tests · 백엔드 130 tests · [CI](https://github.com/minjuko/farm-copilot/actions/workflows/ci.yml) |
-| [**TransMate**](https://github.com/minjuko/transmate) | 졸업논문 팀 프로젝트 · 전문용어 데이터셋 구축 · AWS EC2 실행 환경 구성 | Spring·AWS Translate 공동 연동 · Backend 56 / Mobile 16 tests · [CI](https://github.com/minjuko/transmate/actions) |
+| [**TripFinder**](https://github.com/minjuko/trip-finder) | Next.js Server/Client 경계 설계 · TourAPI runtime validation/정규화 · URL 기반 탐색 상태 | [Production](https://trip-finder-mauve.vercel.app/) · 154 tests · Playwright+axe E2E 12개 시나리오 · [CI](https://github.com/minjuko/trip-finder/actions/workflows/ci.yml) |
+| [**뽀득뽀득**](https://github.com/minjuko/ppodeuk-user-frontend) | 사용자 예약 흐름 구현 · 종속 상태 초기화 · 시간 규칙 순수 함수 분리 | [예약 규칙 검증](https://github.com/minjuko/ppodeuk-user-frontend/blob/main/docs/refactoring.md) · 105 tests · [CI](https://github.com/minjuko/ppodeuk-user-frontend/actions/workflows/ci.yml) |
+| [**농업코파일럿**](https://github.com/minjuko/farm-copilot) | 공통 UI·인증·커뮤니티 구현 · 팀의 AI·공공데이터 API를 화면 흐름으로 연결 | 개인 Fork 기준 Frontend 183 tests · Backend 회귀 검증 138 tests · [CI](https://github.com/minjuko/farm-copilot/actions/workflows/ci.yml) |
+| [**TransMate**](https://github.com/minjuko/transmate) | 졸업논문 팀 프로젝트 · 전문용어 데이터셋 구축 · AWS EC2 실행 환경 구성 | 팀의 Spring·AWS Translate 연동 · Backend 56 / Mobile 16 tests · [CI](https://github.com/minjuko/transmate/actions) |
+
+> 테스트·CI·보안 감사와 Backend 회귀 검증은 팀 프로젝트 종료 후 개인적으로 보완한 작업이며, AI 모델과 팀 전체 Backend 구현은 개인 기여에 포함하지 않습니다.
 
 ## 핵심 구현 기록
 
@@ -38,7 +40,8 @@
 | 프론트엔드 | Next.js · React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS |
 | 상태·데이터 | URL Search Params · Redux Toolkit · TanStack Query (React Query) · Zod |
 | 품질 | Vitest · Jest · React Testing Library · Playwright · axe-core · MSW · GitHub Actions |
-| API·협업 | REST API · Axios · Git · GitHub · Notion |
+| API·Backend 협업 | REST API · Axios · Spring Boot API 회귀 검증 · Django API 계약 테스트 |
+| 협업 | Git · GitHub · Notion |
 | 배포 경험 | Vercel · Railway · AWS · Docker |
 
 ## 추가 프로젝트
