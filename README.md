@@ -26,6 +26,8 @@
 
 > 테스트·CI·보안 감사와 Backend 회귀 검증은 팀 프로젝트 종료 후 개인적으로 보완한 작업이며, AI 모델과 팀 전체 Backend 구현은 개인 기여에 포함하지 않습니다.
 
+> **뽀득뽀득 관련 저장소:** [USER Frontend](https://github.com/minjuko/ppodeuk-user-frontend) · [OWNER Frontend](https://github.com/minjuko/ppodeuk-owner-frontend) · [Backend](https://github.com/minjuko/ppodeuk-backend). 예약 사용자 흐름은 주요 개인 담당이며, Backend의 팀 당시 원구현은 개인 성과가 아닙니다. Backend 테스트·CI 정비는 프로젝트 종료 후 수행한 개인 개선입니다.
+
 ## 핵심 구현 기록
 
 - [TourAPI 응답을 Zod → Normalizer → Domain Model로 분리한 TripFinder](https://github.com/minjuko/trip-finder#설계와-문제-해결)
