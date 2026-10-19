@@ -1,17 +1,16 @@
 # 고민주 | Frontend Developer
 
-React·Next.js 기반 웹서비스에서 **사용자 흐름과 상태를 설계**하고, 외부 API 데이터를 **검증 가능한 UI**로 연결합니다.
+React와 Next.js를 활용해 사용자 흐름과 상태를 설계하고, 외부 API 데이터를 검증·정규화하여 안정적인 웹서비스로 연결합니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?logo=notion)](https://app.notion.com/p/3fd622cea863815091ede6ed72c5170c)
 [![TripFinder](https://img.shields.io/badge/TripFinder-Live-000000?logo=vercel)](https://trip-finder-mauve.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-555555?logo=gmail&logoColor=white)](mailto:rhalswn0526@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-555555?logo=gmail&logoColor=white)](mailto:minjuko.id@gmail.com)
 
-[**포트폴리오 ↗**](https://app.notion.com/p/3fd622cea863815091ede6ed72c5170c) · [**이메일 ↗**](mailto:rhalswn0526@gmail.com)
 
 ## 핵심 역량
 
-- **사용자 흐름·상태 설계:** 예약 단계의 종속 상태, URL 기반 검색 상태, 서버 데이터와 화면 상태의 책임 분리
-- **API 계약·데이터 검증:** REST API 연동, Zod 응답 검증·정규화, 로딩·빈 결과·오류·재시도 처리
+- **사용자 흐름·상태 설계:** 예약 단계의 종속 상태, URL 기반 검색 상태, 서버 상태와 클라이언트 상태 분리
+- **API 연동·응답 데이터 검증:** REST API 연동, Zod 응답 검증·정규화, 로딩·빈 상태·오류 처리 및 재시도
 - **테스트·품질 관리:** Vitest·Jest·React Testing Library·Playwright 및 GitHub Actions CI
 
 ## 대표 프로젝트
@@ -27,7 +26,7 @@ React·Next.js 기반 웹서비스에서 **사용자 흐름과 상태를 설계*
 
 ## 기술 스택
 
-### Languages
+### Languages & Markup
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -44,7 +43,7 @@ React·Next.js 기반 웹서비스에서 **사용자 흐름과 상태를 설계*
 ### Testing & Quality
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?logo=testinglibrary&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?logo=testinglibrary&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
@@ -55,6 +54,6 @@ React·Next.js 기반 웹서비스에서 **사용자 흐름과 상태를 설계*
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 
 ### Additional Experience
-![SQL](https://img.shields.io/badge/SQL-64748B?logo=postgresql&logoColor=white)
-![Django REST API](https://img.shields.io/badge/Django_REST_API-64748B?logo=django&logoColor=white)
-![Spring Boot API](https://img.shields.io/badge/Spring_Boot_API-64748B?logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-64748B)
+![Django API 연동](https://img.shields.io/badge/Django_API_연동-64748B?logo=django&logoColor=white)
+![Spring Boot API 협업](https://img.shields.io/badge/Spring_Boot_API_협업-64748B?logo=springboot&logoColor=white)
