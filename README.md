@@ -20,7 +20,7 @@
 |---|---|---|
 | [**TripFinder**](https://github.com/minjuko/trip-finder) | Next.js Server/Client 경계 설계 · TourAPI runtime validation/정규화 · URL 기반 탐색 상태 | [Production](https://trip-finder-mauve.vercel.app/) · 154 tests · Playwright+axe E2E 12개 시나리오 · [CI](https://github.com/minjuko/trip-finder/actions/workflows/ci.yml) |
 | [**뽀득뽀득**](https://github.com/minjuko/ppodeuk-user-frontend) | 사용자 예약 흐름 구현 · 종속 상태 초기화 · 시간 규칙 순수 함수 분리 | [예약 규칙 검증](https://github.com/minjuko/ppodeuk-user-frontend/blob/main/docs/refactoring.md) · 106 tests · [CI](https://github.com/minjuko/ppodeuk-user-frontend/actions/workflows/ci.yml) |
-| [**농업코파일럿**](https://github.com/minjuko/farm-copilot) | 공통 UI·인증·커뮤니티 구현 · 팀의 AI·공공데이터 API를 화면 흐름으로 연결 | Frontend 183 tests · Backend 138 tests · [CI](https://github.com/minjuko/farm-copilot/actions/workflows/ci.yml) |
+| [**농업코파일럿**](https://github.com/minjuko/farm-copilot) | 공통 UI·인증·커뮤니티 구현 · 팀의 AI·공공데이터 API를 화면 흐름으로 연결 | Frontend 183 tests · Backend regression 138 tests · [CI](https://github.com/minjuko/farm-copilot/actions/workflows/ci.yml) |
 | [**TransMate**](https://github.com/minjuko/transmate) | 전문용어 데이터셋 구축 · AWS EC2 실행 환경 구성 | 팀의 Spring·AWS Translate 연동 · Backend 56 / Mobile 16 tests · [CI](https://github.com/minjuko/transmate/actions) |
 
 ## 기술
