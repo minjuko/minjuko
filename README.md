@@ -28,6 +28,7 @@ React·Next.js 기반 웹서비스에서 **사용자 흐름과 상태를 설계*
 ## 기술 스택
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -54,14 +55,6 @@ React·Next.js 기반 웹서비스에서 **사용자 흐름과 상태를 설계*
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 
 ### Additional Experience
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-64748B?logo=postgresql&logoColor=white)
 ![Django REST API](https://img.shields.io/badge/Django_REST_API-64748B?logo=django&logoColor=white)
 ![Spring Boot API](https://img.shields.io/badge/Spring_Boot_API-64748B?logo=springboot&logoColor=white)
-
-<sub>백엔드·데이터 관련 사용 및 API 연동·협업 경험</sub>
-
-## 관련 링크
-
-- [프로젝트 포트폴리오](https://app.notion.com/p/3fd622cea863815091ede6ed72c5170c)
-- [이메일](mailto:rhalswn0526@gmail.com)
