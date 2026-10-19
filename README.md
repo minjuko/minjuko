@@ -6,7 +6,7 @@ React·Next.js 기반 웹서비스에서 **사용자 흐름과 상태를 설계*
 [![TripFinder](https://img.shields.io/badge/TripFinder-Live-000000?logo=vercel)](https://trip-finder-mauve.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-555555?logo=gmail&logoColor=white)](mailto:rhalswn0526@gmail.com)
 
-[**포트폴리오 보기 ↗**](https://app.notion.com/p/3fd622cea863815091ede6ed72c5170c) · [**이메일 문의 ↗**](mailto:rhalswn0526@gmail.com)
+[**포트폴리오 ↗**](https://app.notion.com/p/3fd622cea863815091ede6ed72c5170c) · [**이메일 ↗**](mailto:rhalswn0526@gmail.com)
 
 ## 핵심 역량
 
