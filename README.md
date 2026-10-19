@@ -4,7 +4,9 @@ React·Next.js 기반 웹서비스에서 **사용자 흐름과 상태를 설계*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?logo=notion)](https://app.notion.com/p/3fd622cea863815091ede6ed72c5170c)
 [![TripFinder](https://img.shields.io/badge/TripFinder-Live-000000?logo=vercel)](https://trip-finder-mauve.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-555555?logo=gmail&logoColor=white)](mailto:minjuko.id@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-555555?logo=gmail&logoColor=white)](mailto:rhalswn0526@gmail.com)
+
+[**포트폴리오 보기 ↗**](https://app.notion.com/p/3fd622cea863815091ede6ed72c5170c) · [**TripFinder 실행해 보기 ↗**](https://trip-finder-mauve.vercel.app/) · [**이메일 문의 ↗**](mailto:rhalswn0526@gmail.com)
 
 ## 핵심 역량
 
@@ -30,9 +32,9 @@ React·Next.js 기반 웹서비스에서 **사용자 흐름과 상태를 설계*
 | [**농업코파일럿**](https://github.com/minjuko/farm-copilot) | 공통 UI·인증·커뮤니티 · 농업 분석·진단 API 화면 연동 | FE **183건** · BE 회귀 **138건** · [CI](https://github.com/minjuko/farm-copilot/actions/workflows/ci.yml) · KT AIVLE **Collaboration상** |
 | [**TransMate**](https://github.com/minjuko/transmate) | 전문용어 데이터 정제·구축 · AWS EC2 실행 환경 구성 · 번역 연동 공동 구현 | BE **56건** · Mobile **16건** · [CI](https://github.com/minjuko/transmate/actions) |
 
-> 각 프로젝트의 상세 구현·트러블슈팅·실행 방법은 저장소 README에 정리했습니다. 테스트 수치는 저장소별 자동화 검증 결과이며, 외부 서비스 전체의 운영 검증을 의미하지 않습니다.
+> 프로젝트명을 클릭하면 저장소 README의 상세 구현·트러블슈팅·실행 방법을 확인할 수 있습니다.
 
 ## 관련 링크
 
 - [프로젝트 포트폴리오](https://app.notion.com/p/3fd622cea863815091ede6ed72c5170c)
-- [이메일](mailto:minjuko.id@gmail.com)
+- [이메일](mailto:rhalswn0526@gmail.com)
