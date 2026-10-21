@@ -1,4 +1,4 @@
-# 고민주 | Software Engineer
+# minjuko | Software Engineer
 
 **Frontend-focused developer**  
 React 기반 웹 서비스를 개발하며, 사용자 흐름과 상태 관리, API 연동 및 테스트에 관심을 두고 있습니다.
