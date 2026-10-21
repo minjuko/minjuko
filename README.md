@@ -15,10 +15,15 @@ React 기반 웹 서비스에서 사용자 흐름과 상태를 설계하고, API
 ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-**Also Worked With**
+**Frontend & State:** Redux Toolkit · TanStack Query · Tailwind CSS · styled-components
 
-- **Backend & Cloud:** Java · Spring Boot · Python · Django · AWS EC2
-- **Testing & CI:** Jest · Vitest · Playwright · GitHub Actions
+**API & Data:** Axios · Zod · REST API
+
+**Backend & Database:** Java · Spring Boot · Python · Django · SQL (MariaDB · SQLite · H2)
+
+**Testing & CI:** Jest · Vitest · Playwright · GitHub Actions
+
+**Cloud:** AWS EC2 · AWS Translate
 
 ## Projects
 
@@ -26,8 +31,8 @@ React 기반 웹 서비스에서 사용자 흐름과 상태를 설계하고, API
 
 `React` `Redux Toolkit` `TanStack Query` · **6인 팀 · 카카오 테크 캠퍼스 대상**
 
-- **예약 상태 관리:** 예약 단계별 종속 상태 관리, 서버 데이터와 사용자 선택 상태 분리
-- **예약·결제 정합성:** 시간 경계·중복 예약 검증, 결제 승인 전 잠금 조회 로직 및 회귀 테스트 보강
+- **예약 상태 관리:** 예약 단계별 종속 상태 설계, Redux Toolkit·TanStack Query를 통한 클라이언트·서버 상태 분리
+- **예약·결제 안정성:** 예약 시간 경계 검증과 회귀 테스트, Spring Boot 예약·결제 로직 유지보수
 
 [![Frontend](https://img.shields.io/badge/GitHub-Frontend-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/ppodeuk-user-frontend)
 [![Backend](https://img.shields.io/badge/GitHub-Backend-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/ppodeuk-backend)
