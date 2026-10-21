@@ -15,11 +15,11 @@ React 기반 웹 서비스에서 사용자 흐름과 상태를 설계하고, API
 ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-**Frontend:** Redux Toolkit · TanStack Query · Tailwind CSS · styled-components · Zod
+**Frontend:** `Redux Toolkit` `TanStack Query` `Tailwind CSS` `styled-components` `Zod`
 
-**Backend & Database:** Java · Spring Boot · Python · Django · SQL
+**Backend & Database:** `Java` `Spring Boot` `Python` `Django` `SQL`
 
-**Testing & DevOps:** Jest · Vitest · Playwright · GitHub Actions · AWS EC2
+**Testing & DevOps:** `Jest` `Vitest` `Playwright` `GitHub Actions` `AWS EC2`
 
 ## Projects
 
