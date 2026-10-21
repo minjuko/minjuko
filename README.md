@@ -24,9 +24,10 @@ React 기반 웹 서비스에서 사용자 흐름과 상태를 설계하고, API
 
 ### [뽀득뽀득](https://github.com/minjuko/ppodeuk-user-frontend) · 셀프세차장 예약 서비스
 
-`React` `Spring Boot` `JPA` · **카카오 테크 캠퍼스 대상(팀)**
+`React` `Redux Toolkit` `TanStack Query` · **6인 팀 · 카카오 테크 캠퍼스 대상**
 
-예약 조건에 따른 화면 상태와 API 연동을 구현했습니다. 프로젝트 종료 후 예약 시간 검증과 결제 승인 전 잠금 조회 로직을 개선했습니다.
+- **예약 UI·API 연동:** 예약 단계별 종속 상태를 관리하고 서버 데이터와 사용자 선택 상태를 분리
+- **후속 개인 개선:** 예약 시간 경계 검증·회귀 테스트 보강, Spring Boot 백엔드의 예약 중복 검증·테스트 환경 개선
 
 [Frontend](https://github.com/minjuko/ppodeuk-user-frontend) · [Backend](https://github.com/minjuko/ppodeuk-backend)
 
@@ -34,22 +35,25 @@ React 기반 웹 서비스에서 사용자 흐름과 상태를 설계하고, API
 
 `Next.js` `TypeScript` `Zod` · **개인 프로젝트**
 
-TourAPI 응답 검증·정규화와 URL 기반 검색 상태를 구현하고, Vitest·Playwright 및 CI로 주요 기능을 검증했습니다.
+- **API·상태 설계:** TourAPI 응답 검증·정규화, URL 기반 검색 조건 관리 및 서버·클라이언트 컴포넌트 역할 분리
+- **품질 검증:** Vitest·Playwright 테스트와 GitHub Actions CI 구성
 
 [Repository](https://github.com/minjuko/trip-finder) · [Live Demo](https://trip-finder-mauve.vercel.app/)
 
 ### [농업코파일럿](https://github.com/minjuko/farm-copilot) · AI 농업 지원 서비스
 
-`React` `Django` `YOLO` · **KT AIVLE Collaboration상(팀)**
+`React` `Axios` `Django API 연동` · **6인 팀 · KT AIVLE Collaboration상**
 
-인증·커뮤니티 UI를 개발하고 Django API를 통해 수익 분석·병해충 진단·공공데이터 기능을 연동했습니다.
+- **프론트엔드 구현:** 공통 UI·인증·커뮤니티와 사용자 입력·결과 화면 개발
+- **서비스 연동:** 수익 분석·병해충 진단·토양검정 API 연결 및 로딩·오류·빈 결과 상태 처리
 
 [Repository](https://github.com/minjuko/farm-copilot)
 
 ### [TransMate](https://github.com/minjuko/transmate) · 전문용어 번역 서비스
 
-`Spring Boot` `AWS Translate` `EC2` · **캡스톤디자인 팀 프로젝트**
+`AWS Translate` `Custom Terminology` `AWS EC2` · **3인 캡스톤 팀**
 
-전문용어 데이터와 AWS Translate 용어집을 구성하고, EC2 서버 환경 구축·배포를 담당했습니다.
+- **데이터·클라우드:** 분야별 전문용어 데이터 정제와 AWS Translate 용어집 구축, EC2 실행 환경·배포 주도
+- **API 협업:** Spring Boot·AWS Translate 연동 공동 구현 및 번역 예외 처리 테스트 보완
 
 [Repository](https://github.com/minjuko/transmate)
