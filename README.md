@@ -60,3 +60,7 @@ React 기반 웹 서비스에서 사용자 흐름과 상태를 설계하고, API
 - **API 연동·검증:** Spring Boot·AWS Translate 연동 및 번역 예외 처리 테스트
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/transmate)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minjuko&show_icons=true&hide_border=true&theme=transparent)
