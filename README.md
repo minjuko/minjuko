@@ -2,7 +2,7 @@
 
 **Software Engineer · Frontend-focused**
 
-React 기반 웹 서비스에서 사용자 흐름과 상태를 설계하고, API 연동과 테스트로 서비스 안정성을 개선합니다. 백엔드 로직과 클라우드 연동까지 프로젝트 경험을 확장하고 있습니다.
+React 기반 웹 서비스에서 사용자 흐름과 API 연동을 구현해 왔습니다. 프로젝트 이후에는 Spring Boot·JPA 기반 예약 처리와 테스트를 직접 개선하며 서버 영역까지 경험을 넓혔습니다. 구현 과정과 검증 결과를 함께 확인하는 개발을 지향합니다.
 
 [![Email](https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:minjuko.id@gmail.com)
 
@@ -27,8 +27,8 @@ React 기반 웹 서비스에서 사용자 흐름과 상태를 설계하고, API
 
 `React` `Redux Toolkit` `TanStack Query` · **6인 팀 · 카카오 테크 캠퍼스 대상**
 
-- **예약 상태 관리:** 예약 단계별 종속 상태 설계, Redux Toolkit·TanStack Query를 통한 클라이언트·서버 상태 분리
-- **예약·결제 안정성:** 예약 시간 경계 검증과 회귀 테스트, Spring Boot 예약·결제 로직 유지보수
+- **팀 프로젝트 당시:** 사용자 프론트엔드 예약 흐름과 종속 상태 관리, API 연동 담당
+- **이후 개인 개선:** 예약 시간 경계 검증, Spring Boot·JPA 예약 중복 처리 개선, 회귀 테스트·CI 보완
 
 [![Frontend](https://img.shields.io/badge/GitHub-Frontend-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/ppodeuk-user-frontend)
 [![Backend](https://img.shields.io/badge/GitHub-Backend-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/ppodeuk-backend)
@@ -57,6 +57,6 @@ React 기반 웹 서비스에서 사용자 흐름과 상태를 설계하고, API
 `AWS Translate` `Custom Terminology` `AWS EC2` · **3인 캡스톤 팀**
 
 - **데이터·클라우드:** 전문용어 데이터 정제, AWS Translate 용어집 구축 및 EC2 배포
-- **API 연동·검증:** Spring Boot·AWS Translate 연동 및 번역 예외 처리 테스트
+- **번역 연동·검증:** Spring Boot·AWS Translate API 공동 구현, 이후 번역 예외 처리 테스트 보완
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/transmate)
