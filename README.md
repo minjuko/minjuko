@@ -1,6 +1,6 @@
 # 고민주
 
-**Software Engineer · Frontend-focused**
+**Software Engineer · Web / API**
 
 React 기반 웹 서비스에서 사용자 흐름과 API 연동을 구현해 왔습니다. 프로젝트 이후에는 Spring Boot·JPA 기반 예약 처리와 테스트를 직접 개선하며 서버 영역까지 경험을 넓혔습니다. 구현 과정과 검증 결과를 함께 확인하는 개발을 지향합니다.
 
@@ -45,7 +45,7 @@ React 기반 웹 서비스에서 사용자 흐름과 API 연동을 구현해 왔
 
 ### 농업코파일럿 · AI 농업 지원 서비스
 
-`React` `Axios` `Django API 연동` · **6인 팀 · KT AIVLE Collaboration상**
+`React` `Axios` `Django API 연동` · **8인 팀 · KT AIVLE Collaboration상**
 
 - **프론트엔드 구현:** 공통 UI·인증·커뮤니티와 사용자 입력·결과 화면 개발
 - **서비스 연동:** 수익 분석·병해충 진단·토양검정 API 연결 및 로딩·오류·빈 결과 상태 처리
