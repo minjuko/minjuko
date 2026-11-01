@@ -44,6 +44,14 @@ React 기반 웹 서비스에서 사용자 흐름과 API 연동을 구현해 왔
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/trip-finder)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-16803C?style=flat-square&logo=vercel&logoColor=white)](https://trip-finder-mauve.vercel.app/)
 
+### TransMate · 전문용어 번역 서비스
+
+`AWS Translate` `Custom Terminology` `AWS EC2` · **3인 캡스톤 팀**
+
+- **데이터·클라우드:** 전문용어 데이터 정제, AWS Translate 용어집 구축 및 EC2 배포
+- **번역 연동·검증:** Spring Boot·AWS Translate API 공동 구현, 이후 번역 예외 처리 테스트 보완
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/transmate)
 ### 농업코파일럿 · AI 농업 지원 서비스
 
 `React` `Axios` `Django API 연동` · **8인 팀 · KT AIVLE Collaboration상**
@@ -53,11 +61,3 @@ React 기반 웹 서비스에서 사용자 흐름과 API 연동을 구현해 왔
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/farm-copilot)
 
-### TransMate · 전문용어 번역 서비스
-
-`AWS Translate` `Custom Terminology` `AWS EC2` · **3인 캡스톤 팀**
-
-- **데이터·클라우드:** 전문용어 데이터 정제, AWS Translate 용어집 구축 및 EC2 배포
-- **번역 연동·검증:** Spring Boot·AWS Translate API 공동 구현, 이후 번역 예외 처리 테스트 보완
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/transmate)
