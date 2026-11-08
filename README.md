@@ -5,7 +5,7 @@
 React 기반 웹 서비스에서 사용자 흐름과 API 연동을 구현해 왔습니다. 프로젝트 이후에는 Spring Boot·JPA 기반 예약 처리와 테스트를 직접 개선하며 서버 영역까지 경험을 넓혔습니다. 구현 과정과 검증 결과를 함께 확인하는 개발을 지향합니다.
 
 [![Email](https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:minjuko.id@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/SW-402622cea86381a1b0f0e3bcccf6c153)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/407622cea86381989ae7c2acd3c3e28d)
 
 ## Tech Stack
 
