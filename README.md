@@ -26,7 +26,7 @@
 여행지 탐색·북마크 웹서비스  
 **Stack** · `Next.js` · `TypeScript` · `Tailwind CSS` · `Zod`  
 **Role** · 개인 개발 · 서비스 설계·구현  
-**Highlights** · TourAPI 응답 정규화·URL 상태 복원 · 지도 JS 요청 5/5회 → 0/5회(로컬 측정)
+**Highlights** · TourAPI 응답 정규화 · URL 탐색 상태 복원·북마크 동기화
 
 ### 뽀득뽀득 [![Frontend](https://img.shields.io/badge/Frontend-5C7189?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/ppodeuk-user-frontend) [![Backend](https://img.shields.io/badge/Backend-657B76?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/ppodeuk-backend)
 
