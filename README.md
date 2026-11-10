@@ -21,30 +21,30 @@
 
 ## Featured Projects
 
-### [TripFinder](https://github.com/minjuko/trip-finder) — 여행지 탐색·북마크 웹서비스
+### TripFinder [![Repo](https://img.shields.io/badge/Repo-5C7189?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/trip-finder) [![Live Demo](https://img.shields.io/badge/Live%20Demo-477B78?style=flat-square&logo=vercel&logoColor=white)](https://trip-finder-mauve.vercel.app/)
 
-**Stack** · `Next.js` · `TypeScript` · `Zod`  
-**Role** · 개인 설계·개발  
-**Highlights** · TourAPI 응답 정규화·URL 상태 복원 · Vitest 166개, Playwright E2E 21개 통과
+여행지 탐색·북마크 웹서비스  
+**Stack** · `Next.js` · `TypeScript` · `Tailwind CSS` · `Zod`  
+**Role** · 개인 프로젝트 · 프론트엔드 전체 설계·개발  
+**Highlights** · TourAPI 응답 정규화·URL 탐색 상태 복원 · Vitest 166개·Playwright E2E 21개 통과
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-477B78?style=flat-square&logo=vercel&logoColor=white)](https://trip-finder-mauve.vercel.app/)
+### 뽀득뽀득 [![Frontend](https://img.shields.io/badge/Frontend-5C7189?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/ppodeuk-user-frontend) [![Backend](https://img.shields.io/badge/Backend-657B76?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/ppodeuk-backend)
 
-### [뽀득뽀득](https://github.com/minjuko/ppodeuk-user-frontend) — 셀프세차장 예약·결제 서비스
+셀프세차장 예약·결제 서비스  
+**Stack** · `React` · `Redux Toolkit` · `TanStack Query` · `Spring Boot`  
+**Role** · 6인 팀 · 사용자 예약 프론트엔드·API 연동 담당  
+**Highlights** · 예약 의존 상태 초기화·자정 경계 시간 처리 · 결제 응답 검증 및 오류 처리
 
-**Stack** · `React` · `Redux Toolkit`  
-**Role** · 6인 팀 사용자 프론트엔드 예약 흐름 담당  
-**Highlights** · 예약 조건 변경 시 종속 선택값 초기화, 자정 경계 시간 처리 및 백엔드와 최종 검증 기준 조율
+### 농업코파일럿 [![Repo](https://img.shields.io/badge/Repo-5C7189?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/farm-copilot)
 
-[![Backend Repo · 개인 후속 개선](https://img.shields.io/badge/Backend%20Repo%20%C2%B7%20%EA%B0%9C%EC%9D%B8%20%ED%9B%84%EC%86%8D%20%EA%B0%9C%EC%84%A0-657B76?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/ppodeuk-backend)
+AI 기반 농업 지원 웹서비스  
+**Stack** · `React` · `styled-components` · `Chart.js` · `Django`  
+**Role** · 8인 팀 · 인증·커뮤니티·농업 분석 화면 및 API 연동  
+**Highlights** · 병해충 이미지 업로드·진단 결과 표시 · 수익 예측 입력·결과 시각화
 
-### [농업코파일럿](https://github.com/minjuko/farm-copilot) — AI 농업 지원 웹서비스
+### TransMate [![Repo](https://img.shields.io/badge/Repo-5C7189?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/transmate)
 
-**Stack** · `React` · `Django REST`  
-**Role** · 8인 팀 프론트엔드 개발·API 연동  
-**Highlights** · 병해충 이미지 업로드부터 진단 결과 확인까지 화면 흐름 구현
-
-### [TransMate](https://github.com/minjuko/transmate) — 분야별 전문용어 통번역 서비스
-
-**Stack** · `Spring Boot` · `AWS Translate`  
-**Role** · 3인 팀 전문용어 데이터 구축·EC2 배포 담당  
-**Highlights** · 분야별 사용자 지정 용어집 구성 및 번역 API 연동 공동 참여
+전문용어 기반 모바일 번역 서비스  
+**Stack** · `Spring Boot` · `AWS Translate` · `Custom Terminology` · `AWS EC2`  
+**Role** · 3인 팀 · 전문용어 데이터 구축·EC2 배포 주도, 번역 API 연동 참여  
+**Highlights** · 분야별 전문용어집 구성 · 번역 결과 누락값 예외 처리
