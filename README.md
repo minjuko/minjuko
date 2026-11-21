@@ -1,7 +1,7 @@
 # 고민주
 
 **Frontend Developer** · React & Next.js  
-사용자 흐름과 API 데이터의 안정성을 고려해 웹서비스를 개발합니다.
+React로 사용자 화면을 만들고, Next.js에서 서버 API와 데이터 저장 기능을 구현합니다.
 
 [![Portfolio · Notion](https://img.shields.io/badge/Portfolio%20%C2%B7%20Notion-56657B?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/407622cea86381989ae7c2acd3c3e28d) [![Email](https://img.shields.io/badge/Email-8B6475?style=flat-square&logo=gmail&logoColor=white)](mailto:minjuko.id@gmail.com)
 
@@ -17,16 +17,16 @@
 
 **Backend · Data · Cloud (Experience)**
 
-![Python](https://img.shields.io/badge/Python-46759B?style=flat-square&logo=python&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-5C8C48?style=flat-square&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/Django-386B57?style=flat-square&logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-607A93?style=flat-square&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-B17B43?style=flat-square&logo=amazonec2&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-46759B?style=flat-square&logo=python&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-5C8C48?style=flat-square&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/Django-386B57?style=flat-square&logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-607A93?style=flat-square&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-B17B43?style=flat-square&logo=amazonec2&logoColor=white)
 
 ## Featured Projects
 
 ### TripFinder [![Repo](https://img.shields.io/badge/Repo-5C7189?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/trip-finder) [![Live Demo](https://img.shields.io/badge/Live%20Demo-477B78?style=flat-square&logo=vercel&logoColor=white)](https://trip-finder-mauve.vercel.app/)
 
-여행지 탐색·북마크 웹서비스  
-**Stack** · `Next.js` · `TypeScript` · `Tailwind CSS` · `Zod`  
-**Role** · 개인 개발 · 서비스 설계·구현  
-**Highlights** · TourAPI 응답 정규화 · URL 탐색 상태 복원·북마크 동기화
+국내 여행지 탐색·저장 웹서비스  
+**Stack** · `Next.js` · `TypeScript` · `PostgreSQL`  
+**Role** · 개인 개발 · 2026.08 ~ 2026.11 · 탐색 화면·계정별 목록 API 구현  
+**Highlights** · TourAPI 응답 정규화·URL 탐색 상태 복원 · 계정별 저장과 PostgreSQL 통합 테스트
 
 ### 뽀득뽀득 [![Frontend](https://img.shields.io/badge/Frontend-5C7189?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/ppodeuk-user-frontend) [![Backend](https://img.shields.io/badge/Backend-657B76?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/ppodeuk-backend)
 
@@ -37,14 +37,14 @@
 
 ### 농업코파일럿 [![Repo](https://img.shields.io/badge/Repo-5C7189?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/farm-copilot)
 
-AI 기반 농업 지원 웹서비스  
+AI·공공데이터 기반 농업 지원 웹서비스  
 **Stack** · `React` · `styled-components` · `Chart.js` · `Django`  
-**Role** · 8인 팀 · 인증·커뮤니티·진단 화면 및 API 연동  
+**Role** · 8인 팀 · 병해충 진단·토양검정 화면 및 API 연동  
 **Highlights** · 병해충 이미지 업로드·결과 조회 · 토양검정·비료 처방 API 연동
 
 ### TransMate [![Repo](https://img.shields.io/badge/Repo-5C7189?style=flat-square&logo=github&logoColor=white)](https://github.com/minjuko/transmate)
 
-전문용어 기반 모바일 번역 서비스  
+전문용어 중심 실시간 회의 통번역 서비스  
 **Stack** · `Spring Boot` · `AWS Translate` · `Custom Terminology` · `AWS EC2`  
-**Role** · 3인 팀 · 전문용어 데이터 구축·EC2 배포  
+**Role** · 3인 팀 · EC2 서버 배포 담당 · Spring Boot REST API와 AWS Translate 연동 공동 구현  
 **Highlights** · 분야별 AWS Translate 용어집 구축 · Spring Boot 서버 EC2 배포
